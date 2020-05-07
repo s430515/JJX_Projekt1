@@ -1,0 +1,3 @@
+Breslau;Manfred;Richthofen;93111903810
+Dresden;Ernst;Juenger;44051401458
+Dalian (Dalnyj);Piotr;Stołypin;81010200141
